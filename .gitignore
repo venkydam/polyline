@@ -1,6 +1,11 @@
-/node_modules
-/build
-/dist
-/docs
-/coverage
-/.idea
+# Ignore common artifacts
+**/build
+**/.idea
+
+# Ignore Javascript/npm artifacts
+**/node_modules
+**/dist
+**/docs
+**/coverage
+
+
