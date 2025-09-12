@@ -14,5 +14,6 @@ jobs:
     with:
       node-version: "18.x"
       working-directory: "javascript"
+      release-tag: "JS-"
     secrets:
       NPM_ORG_TOKEN: ${{ secrets.NPM_ORG_TOKEN }}
