@@ -12,3 +12,4 @@ jobs:
     uses: aws-geospatial/github-workflows-for-amazon-location/.github/workflows/swift-release.yml@main
     with:
       working-directory: "swift"
+      release-title-prefix: "Swift-"
