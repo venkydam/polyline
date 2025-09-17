@@ -1,8 +1,8 @@
-# 0.4.0
+# 0.3.1
 
 ### ✨ Features and improvements
 
-- Internal release
+- Refactored package structure to automate distribution.
 
 # 0.3.0
 
