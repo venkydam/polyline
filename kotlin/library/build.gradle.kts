@@ -11,7 +11,7 @@ mavenPublishing {
     publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL, automaticRelease = true)
     signAllPublications()
 
-    coordinates("software.amazon.location", "polyline", "0.1.1")
+    coordinates("software.amazon.location", "polyline", "0.1.2")
 
     pom {
         name.set("Polyline library for Kotlin")
